@@ -1,8 +1,8 @@
-A OS Recovery System based on P2P
+# An OS Recovery System based on P2P
 
 ---
 
-# O repositório de desenvolvimento está atualmente em https://github.com/decom/RISO
+## O repositório de desenvolvimento está atualmente em https://github.com/decom/RISO
 
 ---
 
